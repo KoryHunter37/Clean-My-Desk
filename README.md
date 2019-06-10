@@ -8,7 +8,7 @@ Clean My Desk is an action party game developed in collaboration with the Georgi
 
 ## Download
 
-Head on over to the [**Releases Tab**]() to download the full game!
+Head on over to the [**Releases Tab**](https://github.com/KouriiRaiko/Clean-My-Desk/releases) to download the full game!
 
 ## Gallery
 
